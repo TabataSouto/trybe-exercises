@@ -30,7 +30,9 @@ b {
 
 img {
     width: 30%;
-    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 20px;
 }
 
 /* HEADER */
@@ -61,3 +63,8 @@ th {
 /* COMPORTAMENTO */
 
 /* DIETA-CAÇA */
+
+/* BIBLIOGRAFIA */
+
+
+/* EXTRAS */
