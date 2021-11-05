@@ -30,7 +30,7 @@ b {
 
 img {
     width: 30%;
-    display: block;
+    /*display: block;*/
     margin: auto;
     padding: 20px;
 }
@@ -43,11 +43,19 @@ img {
 
 /* MENU */
 
+.menu-nav ul li{
+    list-style: none;
+    display: inline;
 
+}
 
 /* TABELA */
 
-table, tr, th, td {
+.tabela{
+    width: 100%;
+}
+
+tr, th, td {
  border: 1px double black;
 }
 
