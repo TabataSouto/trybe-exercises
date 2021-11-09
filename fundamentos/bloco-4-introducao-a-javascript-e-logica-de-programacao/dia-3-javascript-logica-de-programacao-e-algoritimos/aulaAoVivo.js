@@ -9,11 +9,7 @@ console.log("A soma de 1 a 1000: " + soma);
 ​
 //2. Crie um algoritmo que conte quantos números do intervalo entre 2 e 150 são divisíveis por 3.
 // Caso a quantidade seja igual a 50, exiba uma mensagem secreta.
-for (let index = 2; index <= 150; index += 1) {
-    if(index % 3 === 0)
-    console.log(index)
-}
-console.log("Mensagem secreta")
+
 
 ​
 //3. Crie um algoritmo que simula o jogo "pedra, papel e tesoura" levando em consideração que são apenas duas pessoas jogando e imprima o resultado no formato:
