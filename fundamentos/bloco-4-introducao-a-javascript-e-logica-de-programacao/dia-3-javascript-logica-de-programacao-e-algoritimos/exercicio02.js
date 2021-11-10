@@ -5,7 +5,7 @@ let l = " ";
 
 for (let i = 0; i < n; i += 1) { //adição dos asteriscos
   l = l + "*";
-  /*console.log("teste1")*/  
+ console.log("teste1")
 } 
 
 for (let i2 = 0; i2 < n; i2 += 1) { //adição das linhas com asteriscos, ele repete o resultado do n do primeiro for.
