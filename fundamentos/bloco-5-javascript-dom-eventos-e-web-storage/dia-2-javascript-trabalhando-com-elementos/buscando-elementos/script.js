@@ -30,3 +30,4 @@ document.getElementById('elementoOndeVoceEsta').nextSibling;
 document.getElementById('elementoOndeVoceEsta').nextElementSibling
 
 // Agora acesse o terceiroFilho a partir de pai .
+console.log(document.getElementById('pai').lastElementChild.previousElementSibling);
