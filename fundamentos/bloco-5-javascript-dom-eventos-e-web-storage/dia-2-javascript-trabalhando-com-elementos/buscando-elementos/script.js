@@ -1,10 +1,10 @@
 // Acesse o elemento elementoOndeVoceEsta .
-//console.log(document.querySelector('#elementoOndeVoceEsta'))
+console.log(document.querySelector('#elementoOndeVoceEsta'))
 document.getElementById('#elementoOndeVoceEsta');
 
 // Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
 // parentNode e parentElement são propriedades que retornam elemento/nó pai
-//console.log(document.querySelector('#elementoOndeVoceEsta').parentElement.style.backgroundColor = '#7180AC')
+// console.log(document.querySelector('#elementoOndeVoceEsta').parentElement.style.backgroundColor = '#7180AC')
 document.getElementById('elementoOndeVoceEsta').parentElement.style.color = '#7180AC';
 
 // Acesse o primeiroFilhoDoFilho e adicione um texto a ele. Você se lembra dos vídeos da aula anterior, como fazer isso?
