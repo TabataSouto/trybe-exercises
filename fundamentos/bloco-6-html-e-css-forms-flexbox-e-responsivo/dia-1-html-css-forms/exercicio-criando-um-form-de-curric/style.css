@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+}
+
+section {
+  margin: auto;
+  background-color: #f1f0ea;
+  width: 95%;
+  margin-top: 20px;
+}
+
+div {
+  margin: 5px 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+#resumo-curr , #desc-cargo {
+  display: block;
+}
+
+fieldset {
+  border: solid 1px rgb(221, 221, 221);
+}
