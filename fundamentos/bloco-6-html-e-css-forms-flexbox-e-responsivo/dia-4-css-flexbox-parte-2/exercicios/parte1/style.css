@@ -23,7 +23,10 @@ body {
 
 .menu-container {
   display: flex;
-  /* exercicio 01: definir o tamanho */: auto;
+  /* exercicio 01: definir o tamanho */
+  flex-basis: 500px;
+  /* definir a ordem do container logo e menu container */
+  order: 1;
   /* exercicio 03: fazer menu crescer quando houver espaço disponível */
   flex-grow: 1;
   /* exercicio 04: centralizar itens menu */
