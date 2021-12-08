@@ -1,0 +1,78 @@
+* {
+    margin: auto;
+}
+
+/** GERAL **/
+
+body {
+    background-color: rgba(63, 63, 63, 0.842);
+    color: rgba(219, 219, 219, 0.678);
+    text-align: justify;
+    margin: 30px 150px;
+    border: 2px solid rgba(255, 255, 255, 0.116);
+    padding: 15px 30px;
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(34, 27, 27);
+    padding: 5px 0px;
+    margin-top: 20px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+b {
+    color:rgb(255, 255, 255)
+}
+
+img {
+    width: 30%;
+    /*display: block;*/
+    margin: auto;
+    padding: 20px;
+}
+
+/* HEADER */
+
+.header h1{
+    text-align: center;
+}
+
+/* MENU */
+
+.menu-nav ul li{
+    list-style: none;
+    display: inline;
+
+}
+
+/* TABELA */
+
+.tabela{
+    width: 100%;
+}
+
+tr, th, td {
+ border: 1px double black;
+}
+
+th {
+    color: black;
+    text-align: center;
+}
+
+/* INF GERAIS */ 
+
+/* VISÃO */
+
+/* COMPORTAMENTO */
+
+/* DIETA-CAÇA */
+
+/* BIBLIOGRAFIA */
+
+
+/* EXTRAS */
