@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Ubuntu';
+}
+
+body {
+  background-color: rgb(247, 247, 247);
+}
+
+.header-container {
+  background-color: #5C687C;
+  display: flex;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  /* exercicio 01: definir o tamanho */
+  flex-basis: 268px;
+}
+
+.menu-container {
+  display: flex;
+  /* exercicio 01: definir o tamanho */
+  flex-basis: 500px;
+  /* definir a ordem do container logo e menu container */
+  order: 1;
+  /* exercicio 03: fazer menu crescer quando houver espaço disponível */
+  flex-grow: 1;
+  /* exercicio 04: centralizar itens menu */
+  align-self: center;
+}
+
+.menu-container ul {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.menu-container li {
+  color: white;
+  font-weight: 500;
+  font-size: 1.3rem;
+  list-style: none;
+  margin-right: 10px;
+}
