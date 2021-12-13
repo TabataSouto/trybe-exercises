@@ -61,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 6-3: _CSS Flexbox - Part 1_
 - [X] 6-4: _CSS Flexbox - Part 2_
 - [X] 6-5: _CSS Responsivo - Mobile First_
-- [X] 6-6: _[Projeto - Trybewarts](https://github.com/brenndha-cabral)_(https://github.com/TabataSouto/trybewarts)_ - Em conjunto com [Brenndha Cabral](https://github.com/brenndha-cabral)
+- [X] 6-6: _[Projeto - Trybewarts](https://github.com/TabataSouto/trybewarts)_ - Em conjunto com [Brenndha Cabral](https://github.com/brenndha-cabral)
 
 ##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
 
