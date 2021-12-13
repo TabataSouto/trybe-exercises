@@ -39,7 +39,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e Funções_
-- [X] 4-5: _[Projeto - Playground Functions](LINK DO PROJETO)_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/TabataSouto/playground-functions)_
 
 ##### Bloco 5: JavaScrip: DOM, Eventos e Web Storage
 
@@ -48,11 +48,11 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
 - [X] 5-5: _Fundamentos - JavaScript - Projetos_
-- [X] 5-5: _[Projeto - Arte com Pixels](LINK DO PROJETO)_
-- [X] 5-6: _[Projeto - Lista de Tarefas](LINK DO PROJETO)_
-- [ ] 5-7: _[Projeto Bônus - Meme Generator](LINK DO PROJETO)_
-- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor](LINK DO PROJETO)_
-- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa](LINK DO PROJETO)_
+- [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/TabataSouto/pixels-arts)_
+- [X] 5-6: _[Projeto - Lista de Tarefas](https://github.com/TabataSouto/todo-list)_
+- [ ] 5-7: _[Projeto Bônus - Meme Generator](_
+- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
+- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 
@@ -61,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 6-3: _CSS Flexbox - Part 1_
 - [X] 6-4: _CSS Flexbox - Part 2_
 - [X] 6-5: _CSS Responsivo - Mobile First_
-- [X] 6-6: _[Projeto - Trybewarts](LINK DO PROJETO)_
+- [X] 6-6: _[Projeto - Trybewarts](https://github.com/brenndha-cabral)_(https://github.com/TabataSouto/trybewarts)_ - Em conjunto com [Brenndha Cabral](https://github.com/brenndha-cabral)
 
 ##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
 
