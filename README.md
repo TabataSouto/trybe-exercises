@@ -50,9 +50,9 @@ O programa conta com mais de 1.500 horas de aulas online, abordando Introdução
 - [X] 5-5: _Fundamentos - JavaScript - Projetos_
 - [X] 5-5: _[Projeto - Arte com Pixels](https://github.com/TabataSouto/pixels-arts)_
 - [X] 5-6: _[Projeto - Lista de Tarefas](https://github.com/TabataSouto/todo-list)_
-- [ ] 5-7: _[Projeto Bônus - Meme Generator](_
-- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
+- [ ] 5-7: _[Projeto Bônus - Meme Generator](link do projeto aqui)_
+- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor](link do projeto aqui)_
+- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa](link do projeto aqui)_
 
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
 
