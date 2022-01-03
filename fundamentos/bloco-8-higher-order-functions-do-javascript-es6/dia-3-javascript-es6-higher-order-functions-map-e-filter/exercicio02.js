@@ -65,7 +65,6 @@ const books = [
 const nameAndAge = books.map((book) => {
   const ages = book.releaseYear - book.author.birthYear;
   return {age: ages, author: book.author.name};
-});
+}).sort((a, b) => a.age - b.age);
 
-nameAndAge.sort((a, b) => a.age - b.age);
 console.log(nameAndAge)
