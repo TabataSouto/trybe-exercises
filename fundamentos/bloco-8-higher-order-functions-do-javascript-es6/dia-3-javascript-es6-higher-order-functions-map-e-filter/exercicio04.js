@@ -65,7 +65,7 @@ console.log(1951 - 1920);
 
 // 4 - Crie um array ordenado pelos livros com mais de 60 anos de publicação e ordene-o pelo livro mais velho.
 // não foi preciso ordenar pois o objeto possui um único livro com mais de 60 anos;
-const oldBooksOrdered = books.filter(book => (book.releaseYear - book.author.birthYear) > 60);
+const oldBooksOrdered = books.filter(book => (new Date).getFullYear() - book.releaseYear > 60).sort((a, b) => a.releaseYear - b.releaseYear);
 
 // console.log(oldBooksOrdered);
 
