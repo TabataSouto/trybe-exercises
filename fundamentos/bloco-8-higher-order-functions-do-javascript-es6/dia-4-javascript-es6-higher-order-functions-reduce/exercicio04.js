@@ -61,14 +61,9 @@ const books = [
   },
 ];
 
-// Crie uma string com os nomes de todas as pessoas autoras.
-function reduceNames() {
-  // .trim tira os espaços do inicio e fiz da string e o .slice tira a vírgula no fim da frase.
-  return books
-  .reduce((acc, book) => 
-  `${acc} ${book.author.name},`, '')
-  .trim()
-  .slice(0, -1) + '.';
-}
+// Encontre o livro com o maior nome.
+function longestNamedBook() {
 
-// console.log(reduceNames());
+  }
+
+console.log(longestNamedBook());
