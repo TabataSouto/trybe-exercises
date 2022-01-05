@@ -70,8 +70,7 @@ function averageAge() {
 
   // ------------- segunda forma de se fazer
   const booksSize  = books.length;
-  const calcMediaAge = books.reduce((acc, caclMedia) => acc + (caclMedia.releaseYear - caclMedia.author.birthYear) / booksSize
-  , 0);
+  const calcMediaAge = books.reduce((acc, caclMedia) => acc + (caclMedia.releaseYear - caclMedia.author.birthYear) / booksSize, 0);
   return Math.round(calcMediaAge);
 }
 
