@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+#container {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+#secPokes {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-self: center;
+  width: 60%;
+}
+
+.card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 1% 4.5%;
+  align-self: center;  border: 2px solid;
+  width: 600px;
+  border-radius: 10px;
+  padding: 2% 0;
+}
+
+.card p {
+  text-align: center;
+  padding: 3% 0;
+}
+
+img {
+  display: flex;
+  flex-direction: row;
+}
+
+#Pikachu {
+  border: 3px ridge rgb(243, 219, 113);
+  color: rgb(243, 219, 113);
+  font-weight: 800;
+}
+
+#Charmander {
+  border: 3px ridge rgb(255, 155, 108);
+  color: rgb(255, 155, 108);
+  font-weight: 800;
+}
+
+#Caterpie {
+  border: 3px ridge rgb(114, 190, 126);
+  color: rgb(114, 190, 126);
+  font-weight: 800;
+}
+
+#Ekans {
+  border: 3px ridge rgb(220, 131, 223);
+  color: rgb(220, 131, 223);
+  font-weight: 800;
+}
+
+#Alakazam {
+  border: 3px ridge rgb(190, 167, 63);
+  color: rgb(190, 167, 63);
+  font-weight: 800;
+}
+
+#Mew {
+  border: 3px ridge rgb(255, 169, 205);
+  color: rgb(255, 169, 205);
+  font-weight: 800;
+}
+
+#Rapidash {
+  border: 3px ridge rgb(255, 103, 103);
+  color: rgb(255, 103, 103);
+  font-weight: 800;
+}
+
+#Snorlax {
+  border: 3px ridge rgb(21, 140, 170);
+  color: rgb(21, 140, 170);
+  font-weight: 800;
+}
+
+#Dragonair {
+  border: 3px ridge rgb(55, 182, 255);
+  color: rgb(55, 182, 255);
+  font-weight: 800;
+}
