@@ -23,8 +23,6 @@ describe('Verificar função que gera um número aleatório', () => {
     expect(div).toBe(2);
     // verifica se a função foi chamada
     expect(service.randomNumber).toHaveBeenCalled();
-    // testa se a nova implementação de divisão foi aplicada
-    expect(div).toBe(2);
     // testa se a função foi chamda uma única vez;
     expect(service.randomNumber).toHaveBeenCalledTimes(1)
   });
